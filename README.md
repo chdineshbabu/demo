@@ -2,10 +2,6 @@
 
 <p align="center">I'm a Full Stack & Blockchain Developer 💻🚀</p>
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"  />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
