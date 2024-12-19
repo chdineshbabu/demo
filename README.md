@@ -55,11 +55,6 @@
 
 ---
 
-### 🎮 **GitHub Activity**:
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/chdineshbabu/chdineshbabu/output/snake.svg)
-</div>
-
 ### 💡 **My Current Focus**:
 - **🔑 Solana Token & DEX**: Cross-chain compatibility & security improvements.
 - **💼 Blockchain Wallet**: A decentralized wallet using **mnemonics**.
