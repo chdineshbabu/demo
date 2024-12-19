@@ -32,12 +32,6 @@
 
 ---
 
-### 📈 **GitHub Stats**:
-<div align="center">
-  ![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chdineshbabu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula&hide_border=false)
-</div>
-
----
 
 ### 🔗 **Connect with Me**:
 <div align="left">
